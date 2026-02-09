@@ -1,0 +1,70 @@
+html{
+    background-color: beige;
+}
+header{
+    
+    background-image: url(iloilo-1.jpg);
+    background-position: center;
+    background-size: cover;
+    padding: 20px;
+}
+main{ 
+    margin-left: 30px;
+    margin-right: 10px;
+    padding: 15px;
+}
+.top{
+    text-align: center;
+    border
+}
+.cont1{
+    display: flex;
+    justify-content:center;
+}
+.cont2{
+    display: flex;
+    justify-content: center;
+}
+
+.Titlehead{
+    color:white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 3rem;
+    text-shadow: 7px 5px 5px black;
+}
+.snip{
+    color:black;
+    text-align: center;
+    font-family:cursive;
+    font-size: 16px;
+    background-color: rgb(255, 255, 255, 0.7);
+}
+
+.pic{
+    height: 300px;
+    border-style: outset;
+    border-color: burlywood;
+    box-shadow: 5px 5px 4px grey;
+    text-align: center;
+}
+.name{
+    font-size: 4rem;
+}
+h2{
+    font-size: 2rem;
+}
+#profile,#personal,#educ,#skills,#experience,#ih{
+    background-color:blanchedalmond;
+    padding: 10px;
+    margin: 10px;
+    max-width: 40%;
+}
+
+footer{
+    padding: 10px;
+    background-color:khaki;
+    display: flex;
+    justify-content: space-between; 
+
+}
